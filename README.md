@@ -18,4 +18,4 @@ robot-medium.jpg (Gerd Altmann, [PublicDomainPictures.net](https://www.publicdom
 
 ## Revision Notes (Reflection)
 
-Revisiting TOP after a few months of falling off. I was surprised to see that I had not added alt text to a few of the images and that there was no attempt at image attribution. (I'm still unsure of how to proceed here. I don't think any of my images required a credit, but I wanted to put it in to be extra careful.) Decided to put a section in README.md instead of trying to use the <figcaption> tag. Overall the basic components of the site were okay, but I feel better about it after these revisions.
+Revisiting TOP after a few months of falling off. I was surprised to see that I had not added alt text to a few of the images and that there was no attempt at image attribution. (I'm still unsure of how to proceed here. I don't think any of my images required a credit, but I wanted to put it in to be extra careful.) Decided to put a section in README.md instead of trying to use the figcaption tag. Overall the basic components of the site were okay, but I feel better about it after these revisions.
